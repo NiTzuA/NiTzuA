@@ -1,6 +1,7 @@
 <h1>Hello! I'm Austin. Welcome to my Profile.</h1>
 <p>I'm currently studying in order to be somehow competent. As of now, the following are what I am currently and planning to study:</p>
 <ul>
+  <li>Android Studio (As Requirement for my Thesis)</li>
   <li>LeetCode (for Learning DSA)</li>
   <li>The Odin Project (For Web Development)</li>
   <li>Unity (I just love games)</li>
