@@ -2,13 +2,13 @@
 
 **Aspiring Game Developer** | **Web Dev Learner** | **C# Programmer**  
 
-I'm a Computer Engineer graduate who loves learning and building anything I can learn, from Unity games, to app made in WPF, to Android Studio projects (this was mostly for my thesis), and experiments on Raspberry Pi/Arduino/ESP32. Currently, I'm trying to get better at web dev (via [The Odin Project](https://www.theodinproject.com/)) while tinkering with Unity and C# every now and then.
+I'm a Computer Engineer graduate who loves learning and building anything I can learn, from Unity games, to apps made in WPF, to Android Studio projects (this was mostly for my thesis), and experiments on Raspberry Pi/Arduino/ESP32. Currently, I'm trying to get better at web dev (via [The Odin Project](https://www.theodinproject.com/)) while tinkering with Unity and C# every now and then.
 
 ## Projects I've Worked On
 Here are some works that I've made or participated on (more to come... soon...):
 
 - **[SortiPhy](https://github.com/NiTzuA/sortiphy-thesis)** – My undergraduate thesis. An Firebase-powered Android Studio application for a smart trash bin we developed.
-- **[Unnamed Parkour Game](https://github.com/NiTzuA/unnamed-game-one)** – A Unity game that aims to create parkour and movement inspired by the game Titanfall and Apex Legends.  
+- **[Unnamed Parkour Game](https://github.com/NiTzuA/unnamed-game-one)** – A Unity prototype exploring fast-paced parkour mechanics inspired by Titanfall and Apex Legends. 
 - **[World.execute(me) Animation](https://github.com/NiTzuA/world-execute-me)** – A console based C# animation for the some world.execute(me) by Mili.  
 - **[FCC Color Flipper](https://github.com/NiTzuA/fcc-color-flipper)** – A challenge from FCC I created using the knowledge I gained from The Odin Project.
 
@@ -50,8 +50,8 @@ Here are some works that I've made or participated on (more to come... soon...):
 
 ## Currently Learning
 - Full-stack web development (HTML, CSS, JS -> React, Node)
-- Deeper understanding of Unity and game development in workflow in general (Hoping to release a full game)
-- C# architechture and design patterns
+- Deeper understanding of Unity and game development workflows in general (Hoping to release a full game)
+- C# architecture and design patterns
 
 ## Contact Information and Socials
 - [X](https://x.com/N1TzuA_)
@@ -59,8 +59,10 @@ Here are some works that I've made or participated on (more to come... soon...):
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiTzuA&layout=donut&theme=dark">
-  <img align="center" src="https://streak-stats.demolab.com/?user=NiTzuA&theme=dark">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiTzuA&layout=donut&theme=dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=NiTzuA&theme=dark" />
 </p>
+
 
