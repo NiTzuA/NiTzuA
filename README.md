@@ -57,7 +57,7 @@ Here are some works that I've made or participated on (more to come... soon...):
 
 ## Contact Information and Socials
 - [X](https://x.com/N1TzuA_)
-- Email: seanfaustintserrano@gmail.com
+- Email: 11v35faustin@gmail.com
 
 ---
 
